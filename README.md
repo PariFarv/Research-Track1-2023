@@ -1,7 +1,7 @@
 Assignment23 (Parisa Farvardin, S6101141)
 ================================
 
-The goal of this project is to control the Robot to catch the golden boxes which is called Token in the code.
+The goal of this project is to control the Robot to catch the golden boxes which are called `Token` in the code.
 
 Running the simulator
 ----------------------
@@ -79,7 +79,13 @@ Define a function to `Load and Unload` the Tokens:
 		Else if the Token is located on the right side of the Robot
 			Turn right
 
-Repeat this function for all 6 Tokens.				
+Repeat this function for all 6 Tokens.	
+
+Results
+---------
+
+As a result, the final frame of the game is 6 boxes in the center of the space which is shown in the below picture:
+
 
 
 
