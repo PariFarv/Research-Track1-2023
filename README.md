@@ -86,6 +86,8 @@ Results
 
 As a result, the final frame of the game is 6 boxes in the center of the space which is shown in the below picture:
 
+/assets/images/init.png
+
 
 
 
